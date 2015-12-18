@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mineguild Chat</string>
+    <string name="title_activity_main">Connect to...</string>
+    <string name="title_activity_chat">Chat</string>
+</resources>
